@@ -1,0 +1,14 @@
+.banner{
+    background: linear-gradient(
+        to right,
+        #5870A0 0%,
+        #5870A0 40%,
+        #E8D878 60%,
+        #E8D878 100%
+    );
+    text-align: center;
+}
+
+.banner img{
+    max-width: 100%;
+}
